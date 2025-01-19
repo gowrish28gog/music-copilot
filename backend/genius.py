@@ -140,9 +140,9 @@ def main():
     Test the lyrics fetcher
     """
     # Replace these with your actual API credentials  
-    SPOTIFY_CLIENT_ID = "0480bfb577374efc9f573a66a71fc225"
-    SPOTIFY_CLIENT_SECRET = "e7964bcb1dfd4e6f8cd9d90a73c9ac8e"
-    GENIUS_ACCESS_TOKEN = "GGA7HMxxDGzSVUcDxHYyJR-eVyxYAVAD6GV4e2nFTZpMU_WjAFl_VqdiqJ2DLgWs"  # Replace with your actual token
+    SPOTIFY_CLIENT_ID = ""
+    SPOTIFY_CLIENT_SECRET = ""
+    GENIUS_ACCESS_TOKEN = ""  # Replace with your actual token
     
     
     # Initialize the fetcher
